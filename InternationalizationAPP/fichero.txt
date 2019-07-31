@@ -1,0 +1,51 @@
+2
+es
+20
+Español
+Idioma
+Aceptar
+Añadir
+Ver
+Eliminar
+Volver
+¡Se ha añadido correctamente!
+¡Se ha borrado correctamente!
+Introduce el nombre que quieres introducir en la lista.
+Archivo
+Editar
+Configurar
+Portal de trabajadores de la empresa.
+Datos exportados correctamente.
+Error en la exportación.
+Exportar
+Modificar
+Error: Cadena vacía.
+Error
+2
+./img/banderaESP.png
+./img/ingenia.jpg
+en
+20
+English
+Language
+Ok
+Add
+View
+Delete
+Back
+It has been added correctly!
+It has been deleted correctly!
+Enter the name you want to enter in the list.
+File
+Edit
+Config
+Portal of the workers of the company.
+Data exported correctly.
+Error in the export.
+Export
+Modify
+Error: Empty value.
+Error
+2
+./img/banderaEN.png
+./img/ingenia.jpg
