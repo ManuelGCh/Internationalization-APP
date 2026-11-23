@@ -4,8 +4,7 @@ A small Java Swing application built to show, in a way you can actually click th
 internationalisation works in Java: externalised strings, `Locale`, and switching language at runtime
 without restarting the app.
 
-Written for the *Software Engineering / Interfaces* coursework (BSc in Computer Engineering,
-University of Jaén).
+Written for the *Software Engineering / Interfaces* coursework of my Computer Engineering degree.
 
 ## What it demonstrates
 
